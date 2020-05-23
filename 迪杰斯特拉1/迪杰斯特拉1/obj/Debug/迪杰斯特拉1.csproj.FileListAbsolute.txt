@@ -1,0 +1,10 @@
+D:\自己写的程序\迪杰斯特拉1\迪杰斯特拉1\obj\Debug\迪杰斯特拉1.csprojAssemblyReference.cache
+D:\自己写的程序\迪杰斯特拉1\迪杰斯特拉1\obj\Debug\迪杰斯特拉1.Form1.resources
+D:\自己写的程序\迪杰斯特拉1\迪杰斯特拉1\obj\Debug\迪杰斯特拉1.Properties.Resources.resources
+D:\自己写的程序\迪杰斯特拉1\迪杰斯特拉1\obj\Debug\迪杰斯特拉1.csproj.GenerateResource.cache
+D:\自己写的程序\迪杰斯特拉1\迪杰斯特拉1\obj\Debug\迪杰斯特拉1.csproj.CoreCompileInputs.cache
+D:\自己写的程序\迪杰斯特拉1\迪杰斯特拉1\bin\Debug\迪杰斯特拉1.exe.config
+D:\自己写的程序\迪杰斯特拉1\迪杰斯特拉1\bin\Debug\迪杰斯特拉1.exe
+D:\自己写的程序\迪杰斯特拉1\迪杰斯特拉1\bin\Debug\迪杰斯特拉1.pdb
+D:\自己写的程序\迪杰斯特拉1\迪杰斯特拉1\obj\Debug\迪杰斯特拉1.exe
+D:\自己写的程序\迪杰斯特拉1\迪杰斯特拉1\obj\Debug\迪杰斯特拉1.pdb
